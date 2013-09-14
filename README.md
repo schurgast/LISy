@@ -7,8 +7,8 @@ README
 
 in order to run LISy, you need the following libs:
 
-SignalCollectV2.jar
-activation-1.1.jar
+* SignalCollectV2.jar
+* activation-1.1.jar
 aduna-appbase-core-3.9.0.jar
 aduna-appbase-logging-api-3.9.0.jar
 aduna-appbase-logging-file-3.9.0.jar
